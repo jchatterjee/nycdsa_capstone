@@ -3,3 +3,4 @@
 .ipynb_checkpoints/DA_Q1_Rider_Behavior-checkpoint.ipynb
 *.parquet
 *.csv
+*.geojson

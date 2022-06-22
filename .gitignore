@@ -5,3 +5,5 @@
 *.csv
 *.geojson
 .ipynb_checkpoints/ML_Q1_Time_Series_Analysis_Modeling-checkpoint.ipynb
+.ipynb_checkpoints/ML_Q4_Data_Cleaning-checkpoint.ipynb
+.ipynb_checkpoints/ML_Q4_Duration_and_Arrivals-checkpoint.ipynb
